@@ -1,4 +1,6 @@
-## Hi there 👋
+### ✍️ Blog Yazılarım
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@halitcomoglu)
 
 <!--
 **halitcomoglu/halitcomoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
